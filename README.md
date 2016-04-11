@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 dangercli - a cli for the Go [dangerlib][] package
 ==================================================
 [dangerlib]: https://github.com/ciarand/dangerlib
